@@ -1,7 +1,5 @@
 # Привет, я Катя
 
-Backend-разработчик (junior). Пишу на PHP и Yii2, а больше всего люблю базы данных:
-
 **Портфолио:** [ssnirtek.github.io](https://ssnirtek.github.io)
 
 ## Что я делала
